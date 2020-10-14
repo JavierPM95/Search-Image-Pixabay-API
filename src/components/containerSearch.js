@@ -6,7 +6,7 @@ const ContainerSearch = (props) => {
 
     
     return(
-    <div className="row point">
+    <div className="row">
         {
             props.results.map(result => (
                 <div className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4" key={result.id}>
