@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/css/main.5facb584.chunk.css",
+    "main.js": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/main.bf169b78.chunk.js",
+    "main.js.map": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/main.bf169b78.chunk.js.map",
+    "runtime-main.js": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/runtime-main.3153450b.js",
+    "runtime-main.js.map": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/runtime-main.3153450b.js.map",
+    "static/js/2.f0932886.chunk.js": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/2.f0932886.chunk.js",
+    "static/js/2.f0932886.chunk.js.map": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/2.f0932886.chunk.js.map",
+    "index.html": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/index.html",
+    "precache-manifest.2f86c81101c93ca7f4c6ae2cc6cc6353.js": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/precache-manifest.2f86c81101c93ca7f4c6ae2cc6cc6353.js",
+    "service-worker.js": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.f0932886.chunk.js.LICENSE.txt": "/http//:JavierPM95.github.io/Search-Image-Pixabay-API/static/js/2.f0932886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3153450b.js",
+    "static/js/2.f0932886.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.bf169b78.chunk.js"
+  ]
+}
