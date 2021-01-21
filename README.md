@@ -2,4 +2,4 @@
 
 ### First look
 ___
-<img src="githubSrc/Seach-Image-Pixabay-API.png">
+<img src="githubSrc/Search-Image-Pixabay-API.png">
